@@ -2,6 +2,7 @@
 
 ## Directory Structure
 
+```
 your_project_name-shared-docs (this repository)/
 ├── shared-docs (shared documentation)/
 │   └── business-logic/
@@ -11,8 +12,7 @@ your_project_name-shared-docs (this repository)/
 │   └── getting-started.md
 ├── ios-docs (iOS-specific documentation)/
 │   └── setup-guide.md
-
-Note: More directories may be added in the future.
+```
 
 ## Contents
 
