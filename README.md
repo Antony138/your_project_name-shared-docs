@@ -10,8 +10,8 @@ your_project_name-shared-docs (this repository)/
 │       └── user-sign-in.md
 ├── android-docs (Android-specific documentation)/
 │   └── getting-started.md
-├── ios-docs (iOS-specific documentation)/
-│   └── setup-guide.md
+└── ios-docs (iOS-specific documentation)/
+    └── setup-guide.md
 ```
 
 ## Contents
