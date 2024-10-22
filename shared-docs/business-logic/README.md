@@ -1,6 +1,8 @@
 # Business Logic
 
-This directory contains documentation for common business logic processes.
+This directory contains documentation for the core business logic of our application.
+
+(Add your business logic documentation here)
 
 ## Contents
 

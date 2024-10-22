@@ -1,23 +1,20 @@
-# your_project_name-shared-docs
+# your_project_name-docs
 
 ## Directory Structure
 
-- your_project_name-shared-docs (this repository)
-  - shared-docs (shared documentation)
-    - business-logic
-  - android-docs (Android-specific documentation)
-    - getting-started.md
-    - ui-guidelines.md
-    - api-integration.md
-  - ios-docs (iOS-specific documentation)
-    - setup-guide.md
-    - swift-best-practices.md
-    - networking.md
+- shared-docs/
+  |- sequence-diagrams/
+  |- architecture/
+  |- business-logic/
 
-Note: More directories may be added in the future.
+- ios-app/
+  |- docs/ (submodule)
+
+- android-app/
+  |- docs/ (submodule)
 
 ## Contents
 
 - [Shared Documentation](shared-docs/README.md)
-- [Android Documentation](android-docs/README.md)
-- [iOS Documentation](ios-docs/README.md)
+- [iOS Documentation](ios-app/docs/README.md)
+- [Android Documentation](android-app/docs/README.md)
