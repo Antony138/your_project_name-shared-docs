@@ -2,17 +2,15 @@
 
 ## Directory Structure
 
-- your_project_name-shared-docs (this repository)
-  - shared-docs (shared documentation)
-    - business-logic
-  - android-docs (Android-specific documentation)
-    - getting-started.md
-    - ui-guidelines.md
-    - api-integration.md
-  - ios-docs (iOS-specific documentation)
-    - setup-guide.md
-    - swift-best-practices.md
-    - networking.md
+your_project_name-shared-docs (this repository)/
+├── shared-docs (shared documentation)/
+│   └── business-logic/
+│       ├── bluetooth-pairing.md
+│       └── user-sign-in.md
+├── android-docs (Android-specific documentation)/
+│   └── getting-started.md
+├── ios-docs (iOS-specific documentation)/
+│   └── setup-guide.md
 
 Note: More directories may be added in the future.
 
